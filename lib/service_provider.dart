@@ -51,7 +51,7 @@ final List<ServiceProvider> providers = [
     name: 'Awada Electrical.',
     profession: 'Electrician',
     description: 'Best electrical company.',
-    phone: '0733445566',
+    phone: '+961-70874531',
     isIndividual: false,
   ),
   ServiceProvider(
