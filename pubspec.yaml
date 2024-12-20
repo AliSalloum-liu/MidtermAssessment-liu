@@ -1,0 +1,17 @@
+name: service_providers_app
+description: A Flutter application to find service providers.
+
+publish_to: "none" # Prevent accidental publishing to pub.dev
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Include additional packages here if needed
+
+flutter:
+  uses-material-design: true
+
